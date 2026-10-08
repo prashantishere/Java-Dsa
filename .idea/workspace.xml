@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="296bdf20-1b0e-4a84-a209-df878af63f2b" name="Changes" comment="Java_DSA">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bascis/VariableBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bascis/VariableBasics.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prashantishere&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prashantishere/Java-Dsa.git&quot;,
+    &quot;accountId&quot;: &quot;a8646765-cbc3-4230-ba6d-8514df53623e&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3EzSJKhBYuZJEJXe8GOFBvfzTsw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddTwoArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ApOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaOfCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmaticOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bubblesorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuiltIn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Builtin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Vovel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DescendingBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloydTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frontend.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloYashikaaa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_Else.If_Else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_Else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputAndoutput (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputAndoutput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PermutationAndCombination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelationalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RowAndMax_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StarPlus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transpose_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeCast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.degree90rotate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.peakelementinMountain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practicee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.triangle.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shubh/IdeaProjects/tayyari_DSA&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.DescendingBinary">
+    <configuration name="DescendingBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSoritng.DescendingBinary" />
+      <module name="tayyari_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSoritng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputAndoutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_BACKEND.InputAndoutput" />
+      <module name="tayyari_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_BACKEND.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bascis.VariableBasics" />
+      <module name="tayyari_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bascis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peakelementinMountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSoritng.peakelementinMountain" />
+      <module name="tayyari_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSoritng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practicee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringss.practicee" />
+      <module name="tayyari_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stringss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.practicee" />
+        <item itemvalue="Application.VariableBasics" />
+        <item itemvalue="Application.peakelementinMountain" />
+        <item itemvalue="Application.DescendingBinary" />
+        <item itemvalue="Application.InputAndoutput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="296bdf20-1b0e-4a84-a209-df878af63f2b" name="Changes" comment="" />
+      <created>1781179834683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781179834683</updated>
+      <workItem from="1788619480588" duration="855000" />
+      <workItem from="1788885520864" duration="918000" />
+      <workItem from="1789233095078" duration="4087000" />
+      <workItem from="1789283416155" duration="8344000" />
+      <workItem from="1790879103239" duration="3878000" />
+      <workItem from="1790920075598" duration="2491000" />
+      <workItem from="1790926597825" duration="5608000" />
+      <workItem from="1791342039111" duration="22000" />
+    </task>
+    <task id="LOCAL-00001" summary="git is working">
+      <option name="closed" value="true" />
+      <created>1789235912032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789235912032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first code">
+      <option name="closed" value="true" />
+      <created>1789236280986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789236280986</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first code">
+      <option name="closed" value="true" />
+      <created>1789236359488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789236359488</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first code">
+      <option name="closed" value="true" />
+      <created>1789236578381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789236578381</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first code">
+      <option name="closed" value="true" />
+      <created>1789236590396</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789236590396</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Java_DSA">
+      <option name="closed" value="true" />
+      <created>1789283628383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1789283628383</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git is working" />
+    <MESSAGE value="first code" />
+    <MESSAGE value="Java_DSA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java_DSA" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bascis/HelloYashikaaa.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array2D/RowAndMax_Element.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAVA_BACKEND/InputAndoutput.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicSoritng/peakelementinMountain.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stringss/practicee.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Array2D/OutputArray.java</url>
+          <line>5</line>
+          <properties class="Array2D.OutputArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Array2D/Transpose_M.java</url>
+          <line>3</line>
+          <properties class="Array2D.Transpose_M">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tayyari_DSA$HelloYashikaaa.ic" NAME="HelloYashikaaa Coverage Results" MODIFIED="1781182201231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Bascis.*</FILTER>
+    </SUITE>
+  </component>
+</project>
