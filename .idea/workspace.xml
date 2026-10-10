@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="296bdf20-1b0e-4a84-a209-df878af63f2b" name="Changes" comment="Java_DSA">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bascis/VariableBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bascis/VariableBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stringss/Count_Vovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/Count_Vovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stringss/Stringparshing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/Stringparshing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stringss/stringBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/stringBasics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +87,7 @@
     &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.RowAndMax_Element.executor&quot;: &quot;Run&quot;,
     &quot;Application.StarPlus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringparshing.executor&quot;: &quot;Run&quot;,
     &quot;Application.Transpose_Matrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.TypeCast.executor&quot;: &quot;Run&quot;,
     &quot;Application.VariableBasics.executor&quot;: &quot;Run&quot;,
@@ -113,13 +113,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DescendingBinary">
-    <configuration name="DescendingBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSoritng.DescendingBinary" />
+  <component name="RunManager" selected="Application.StringToCharArray">
+    <configuration name="Count_Vovel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringss.Count_Vovel" />
       <module name="tayyari_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicSoritng.*" />
+          <option name="PATTERN" value="Stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +127,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputAndoutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVA_BACKEND.InputAndoutput" />
+    <configuration name="StringToCharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringss.StringToCharArray" />
       <module name="tayyari_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVA_BACKEND.*" />
+          <option name="PATTERN" value="Stringss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringparshing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringss.Stringparshing" />
+      <module name="tayyari_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +159,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Bascis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="peakelementinMountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSoritng.peakelementinMountain" />
-      <module name="tayyari_DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicSoritng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringToCharArray" />
+        <item itemvalue="Application.Count_Vovel" />
+        <item itemvalue="Application.Stringparshing" />
         <item itemvalue="Application.practicee" />
         <item itemvalue="Application.VariableBasics" />
-        <item itemvalue="Application.peakelementinMountain" />
-        <item itemvalue="Application.DescendingBinary" />
-        <item itemvalue="Application.InputAndoutput" />
       </list>
     </recent_temporary>
   </component>
@@ -334,6 +334,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stringss/Count_Vovel.java</url>
+          <line>3</line>
+          <properties class="Stringss.Count_Vovel">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
