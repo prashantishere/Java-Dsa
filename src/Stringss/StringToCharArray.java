@@ -9,6 +9,9 @@ public class StringToCharArray {
         char[] arr = s.toCharArray();
         for(char ele: arr){
             System.out.println(ele);
+
+            int sandy = 789567;
+
         }
     }
 }
