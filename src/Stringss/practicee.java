@@ -1,24 +1,19 @@
-package Stringss;
+void main() {
+    IO.println("What is your name?");
+    String name = IO.readln();
 
-public class practicee {
-    public static void main(String[] args) {
-        int a = 5;
-        int b = 11;
-        int maxx =b, minn=a;
-//        if (a > b) {
-//            max = a;
-//        } else {
-//            max = b;
-//        }
-        while (true) {
-            if(minn % maxx ==0) {
-                System.out.println("lcm is " + minn);
-                break;
-            }
+    IO.println("My name is " + name + " Maurya");
 
-            minn = minn + a;
+    IO.println("What is your age?");
+    int age = Integer.parseInt(IO.readln());
 
-        }
+    IO.println("What is your fav food?");
+    String food = IO.readln();
 
-    }
+    IO.println(name);
+    IO.println(age);
+    IO.println(food);
+
+    IO.println(food);
+    System.out.println();
 }

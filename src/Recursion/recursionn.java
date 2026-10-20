@@ -12,7 +12,11 @@ public class recursionn {
     static void main() {
         System.out.println("enter number :");
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        String n = sc.nextLine();
+
+        for(int i=0; i<n.length()-1; i++){
+            if(n.charAt(i) == ' ') System.out.println("space detected"+ i);
+        }
         //sum(n);
     }
 }

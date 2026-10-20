@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="296bdf20-1b0e-4a84-a209-df878af63f2b" name="Changes" comment="Java_DSA">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stringss/Count_Vovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/Count_Vovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stringss/Stringparshing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/Stringparshing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stringss/stringBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/stringBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array2D/Row_transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2D/Row_transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassAndObject/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassAndObject/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_BACKEND/InputAndoutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_BACKEND/InputAndoutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/recursionn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/recursionn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stringss/AllSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/AllSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stringss/practicee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringss/practicee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +60,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
     &quot;Application.AddTwoArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllSubstring.executor&quot;: &quot;Run&quot;,
     &quot;Application.Alphabet.executor&quot;: &quot;Run&quot;,
     &quot;Application.ApOperation.executor&quot;: &quot;Run&quot;,
     &quot;Application.AreaOfCircle.executor&quot;: &quot;Run&quot;,
@@ -63,7 +69,9 @@
     &quot;Application.BuiltIn.executor&quot;: &quot;Run&quot;,
     &quot;Application.Builtin.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassAndObject.Demo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Count_Vovel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
     &quot;Application.DescendingBinary.executor&quot;: &quot;Run&quot;,
     &quot;Application.DigitSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.FloydTriangle.executor&quot;: &quot;Run&quot;,
@@ -77,16 +85,20 @@
     &quot;Application.If_Else.executor&quot;: &quot;Run&quot;,
     &quot;Application.InputAndoutput (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.InputAndoutput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetcodeQues.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.OutputArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Pattern_practice.executor&quot;: &quot;Run&quot;,
     &quot;Application.PermutationAndCombination.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintingNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
     &quot;Application.RelationalOperators.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.RowAndMax_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Row_transpose.executor&quot;: &quot;Run&quot;,
     &quot;Application.StarPlus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToCharArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stringparshing.executor&quot;: &quot;Run&quot;,
     &quot;Application.Transpose_Matrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.TypeCast.executor&quot;: &quot;Run&quot;,
@@ -95,8 +107,10 @@
     &quot;Application.degree90rotate.executor&quot;: &quot;Run&quot;,
     &quot;Application.peakelementinMountain.executor&quot;: &quot;Run&quot;,
     &quot;Application.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practicee (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.practicee.executor&quot;: &quot;Run&quot;,
     &quot;Application.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.recursionn.executor&quot;: &quot;Run&quot;,
     &quot;Application.triangle.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -108,18 +122,21 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shubh/IdeaProjects/tayyari_DSA&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringToCharArray">
-    <configuration name="Count_Vovel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringss.Count_Vovel" />
+  <component name="RunManager" selected="Application.ClassAndObject.Demo">
+    <configuration name="ClassAndObject.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassAndObject.Demo" />
       <module name="tayyari_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringss.*" />
+          <option name="PATTERN" value="ClassAndObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToCharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringss.StringToCharArray" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2D.Demo" />
       <module name="tayyari_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringss.*" />
+          <option name="PATTERN" value="Array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +157,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringparshing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringss.Stringparshing" />
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion" />
+      <module name="tayyari_DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Row_transpose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2D.Row_transpose" />
       <module name="tayyari_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringss.*" />
+          <option name="PATTERN" value="Array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,47 +177,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bascis.VariableBasics" />
+    <configuration name="recursionn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursionn" />
       <module name="tayyari_DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bascis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practicee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringss.practicee" />
-      <module name="tayyari_DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stringss.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringToCharArray" />
-        <item itemvalue="Application.Count_Vovel" />
-        <item itemvalue="Application.Stringparshing" />
-        <item itemvalue="Application.practicee" />
-        <item itemvalue="Application.VariableBasics" />
+        <item itemvalue="Application.ClassAndObject.Demo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Row_transpose" />
+        <item itemvalue="Application.recursionn" />
+        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>
@@ -299,19 +304,19 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JAVA_BACKEND/InputAndoutput.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BasicSoritng/peakelementinMountain.java</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stringss/practicee.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/Array2D/Transpose_M.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/Demo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
@@ -320,7 +325,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Array2D/OutputArray.java</url>
           <line>5</line>
-          <properties class="Array2D.OutputArray">
+          <properties class="Array2D.OutputArray" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -328,7 +333,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Array2D/Transpose_M.java</url>
-          <line>3</line>
+          <line>2</line>
           <properties class="Array2D.Transpose_M">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -338,7 +343,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Stringss/Count_Vovel.java</url>
           <line>3</line>
-          <properties class="Stringss.Count_Vovel">
+          <properties class="Stringss.Count_Vovel" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -346,6 +351,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tayyari_DSA$HelloYashikaaa.ic" NAME="HelloYashikaaa Coverage Results" MODIFIED="1781182201231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
